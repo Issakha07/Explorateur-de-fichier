@@ -1,0 +1,50 @@
+body{
+     background-image: url(img/60598_2560_1600.jpg);
+     background-repeat: no-repeat;
+     background-size: cover;
+     font-size: 1em;
+     margin-left: 30px;
+}
+h2{
+     color: black;
+     text-decoration: underline;
+     margin-top: 10px;
+     margin-bottom: 20px;
+     font-size: 1.6em;
+     text-shadow: 1px 1px 1px grey;
+     font-weight: bold;
+}
+a{
+     color: red;
+     font-size: 1em;
+     margin-top: 20px;
+}
+a:hover{
+     text-shadow: 1px 1px 1px black;
+     text-decoration: none;
+     color: red;
+}
+.imgfolder{
+     margin-right:5px;
+     width:1.5%;
+}
+.imgfile{
+     margin-right:5px;
+     width:1.5%;
+}
+.backbtn{
+     margin-top:30px;
+     margin-bottom:100px;
+     border-radius: 25px;
+     width: 100px;
+     border: double black 2px;
+     padding: 1px;
+}
+.backbtn:hover{
+     background-color: grey
+}
+.type{
+     font-size: 0.6em;
+     margin-left:00px;
+     
+}
